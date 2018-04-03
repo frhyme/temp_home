@@ -1,8 +1,9 @@
-## frhyme's github page
+- day by day, just writing something I've learned with my poor and bad english.
+- maybe someday, It will be better...maybe. 
+
 
 ### Algorithm 
 - [Problem1](/test.md)
-   , 
 - Problem2
 
 ### etc.
