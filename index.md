@@ -14,8 +14,10 @@
 - [digitsProduct](/Algorithm/digitsProduct)
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
+- Linked list
+- dynamic programming 
 
-### Python lib.
+### Lib in Python
 - [pandas]()
 - [itertools]()
 
