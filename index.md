@@ -14,6 +14,7 @@
 - [digitsProduct](/Algorithm/digitsProduct)
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
+
 ### Trivial Thing in Python
 - [member testing](/TTip/Python_membertesting.md)
 
