@@ -12,6 +12,7 @@
 - [arrayMaxConsecutiveSum](/Algorithm/arrayMaxConsecutiveSum.md)
 - [buildPalindrome](/Algorithm/buildPalindrome)
 - [digitsProduct](/Algorithm/digitsProduct)
+- [spiralNumbers](/Algorithm/spiralNumbers)
 
 ### Trivial Thing in Python
 - [member testing](/TTip/Python_membertesting.md)
