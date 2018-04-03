@@ -3,7 +3,7 @@
 
 
 ### Algorithm 
-- [Problem1](/test.md)
+- [Problem1](/test2.md)
 - Problem2
 
 ### etc.
