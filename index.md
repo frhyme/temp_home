@@ -17,9 +17,10 @@
 - Linked list
 - dynamic programming 
 
-### Lib in Python
+### Lib usage in Python
 - [pandas]()
 - [itertools]()
+- [Excel + Python]()
 
 ### Trivial Thing in Python
 - [MemberTesting](/TTiP/Python_membertesting.md)
