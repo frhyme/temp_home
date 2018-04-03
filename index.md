@@ -22,7 +22,7 @@
 - [itertools]()
 
 ### Trivial Thing in Python
-- [member testing](/TTip/Python_membertesting.md)
+- [MemberTesting](/TTip/Python_membertesting.md)
 
 ### etc.
 - Something1
