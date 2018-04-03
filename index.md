@@ -15,6 +15,10 @@
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
 
+### Python lib.
+- [pandas]()
+- [itertools]()
+
 ### Trivial Thing in Python
 - [member testing](/TTip/Python_membertesting.md)
 
