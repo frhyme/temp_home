@@ -10,7 +10,7 @@
 
 ### Algorithm 
 - [arrayMaxConsecutiveSum](/Algorithm/arrayMaxConsecutiveSum.md)
-- Problem2
+- [buildPalindrome](/Algorithm/buildPalindrome)
 
 ### etc.
 - Something1
