@@ -13,6 +13,9 @@
 - [buildPalindrome](/Algorithm/buildPalindrome)
 - [digitsProduct](/Algorithm/digitsProduct)
 
+### Trivial Thing in Python
+- [member testing](/TTip/Python_membertesting.md)
+
 ### etc.
 - Something1
 - Soomething2
