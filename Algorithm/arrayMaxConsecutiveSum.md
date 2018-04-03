@@ -1,5 +1,5 @@
 
-# `arrayMaxConsecutiveSum(inputArray, k))`
+# arrayMaxConsecutiveSum(inputArray, k))
 
 ## Problem
 - size `l`의 배열이 있을 때, 해당 배열로부터는 크기 `k`의 연속된 배열을 `l-k+1`개 만들 수 있다. 
