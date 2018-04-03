@@ -1,11 +1,14 @@
 # spiralNumbers(n)
 
 ## Problem
+
 - `spiral`은 나선형 이라는 뜻인데, 달팽이집처럼 뺑뺑 돌아나가는 것을 의미하고
 - spiralNumbers(n)은 음...예시를 보는 게 더 빠를 것 같다. 
 
 ### examples
+
 - 1부터 입력받은 정수까지를 n`*`n matrix에 시계방향으로 배치하고 해당 매트릭스를 리턴하는 함수를 말한다. 
+
 ```python
 for row in spiralNumbers(2):
     print(row)
