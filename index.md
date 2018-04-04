@@ -14,6 +14,7 @@
 - [digitsProduct](/Algorithm/digitsProduct)
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
+- [rotateMatrix](/Algorithm/rotateMatrix.md)
 - Linked list
 - dynamic programming 
 
