@@ -11,12 +11,12 @@
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
 - [rotateMatrix](/Algorithm/rotateMatrix.md)
-- Linked list
-- dynamic programming 
+- Linked list(not yet)
+- dynamic programming(not yet)
 
 ### Lib usage in Python
-- [pandas]()
-- [itertools]()
+- [pandas (not yet)]()
+- [itertools (not yet)]()
 - [Excel + Python](/LibUsage/excel_in_python.md)
 
 ### Trivial Thing in Python
