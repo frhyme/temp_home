@@ -11,7 +11,8 @@
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
 - [rotateMatrix](/Algorithm/rotateMatrix.md)
-- Linked list(not yet)
+- Linked list
+  - [Linked list(Basic)](/Algorithm/linkedListBasic.md)
 - dynamic programming(not yet)
 
 ### Lib usage in Python
