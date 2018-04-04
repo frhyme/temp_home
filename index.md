@@ -13,6 +13,8 @@
 - [rotateMatrix](/Algorithm/rotateMatrix.md)
 - Linked list
   - [Linked list(Basic)](/Algorithm/linkedListBasic.md)
+  - [isListPalindrome](/Algorithm/linkedList_isListPalindrome.md)
+  - [mergeTwoLinkedList](/Algorithm/mergeTwoLinkedList.md)
 - dynamic programming(not yet)
 
 ### Lib usage in Python
