@@ -17,7 +17,7 @@
 ### Lib usage in Python
 - [pandas]()
 - [itertools]()
-- [Excel + Python]()
+- [Excel + Python](/LibUsage/excel_in_python.md)
 
 ### Trivial Thing in Python
 - [MemberTesting](/TTiP/Python_membertesting.md)
