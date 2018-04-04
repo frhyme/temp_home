@@ -16,6 +16,10 @@
   - [isListPalindrome](/Algorithm/linkedList_isListPalindrome.md)
   - [mergeTwoLinkedList](/Algorithm/mergeTwoLinkedLists.md)
   - [reverseNodeInKgroups](/Algorithm/reverseNodeInKGroups.md)
+- Hash Tables(not yet)
+- Trees
+  - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md)
+
 - dynamic programming(not yet)
 
 ### Lib usage in Python
