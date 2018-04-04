@@ -14,7 +14,8 @@
 - Linked list
   - [Linked list(Basic)](/Algorithm/linkedListBasic.md)
   - [isListPalindrome](/Algorithm/linkedList_isListPalindrome.md)
-  - [mergeTwoLinkedList](/Algorithm/mergeTwoLinkedList.md)
+  - [mergeTwoLinkedList](/Algorithm/mergeTwoLinkedLists.md)
+  - [reverseNodeInKgroups](/Algorithm/reverseNodeInKGroups.md)
 - dynamic programming(not yet)
 
 ### Lib usage in Python
