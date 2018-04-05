@@ -11,6 +11,7 @@
 - [spiralNumbers](/Algorithm/spiralNumbers.md)
 - [checkSudoku](/Algorithm/checkSudoku.md)
 - [rotateMatrix](/Algorithm/rotateMatrix.md)
+- [sumInRange](/Algorithm/sumInRange.md)
 - Linked list
   - [Linked list(Basic)](/Algorithm/linkedListBasic.md)
   - [isListPalindrome](/Algorithm/linkedList_isListPalindrome.md)
