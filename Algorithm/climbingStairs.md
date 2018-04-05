@@ -25,8 +25,11 @@
 		- 1 칸을 올랐을 경우, k-1칸을 더 오르면 된다. 
 - 너무 recursive하지 않나요. 그래서 다음 처럼 아주 간단하게 recursive로 표현할 수 있습니다. 
 	- 단 python에서는 tail-recursion optimization을 지원하지 않기 때문에, 이렇게만 할 경우 연산속도가 느려질 수 있습니다. 
-	- 물론 현재는 그렇게 복잡한 계산을 수행하는 경우가 아니기 때문에, 비교했을때 큰 차이가 있지는 않습니다. 
-
+- n 이 적을때는 문제가 없지만, n이 증가하면, 점점 익스포넨셜하게 증가합니다. 
+	- n 이 35 일 때, 
+		- recursive: 3.642163038253784
+		- iterative: 0.00024890899658203125
+		
 - 그래서 iterative한 형태로 바꿔줍니다. 
 
 ### climbingStairs - recursive
@@ -38,7 +41,7 @@ def climbingStairs_recursive(n):
     elif n==2:
         return 2
     else:
-        return climbingStairs(n-1)+climbingStairs(n-2)
+        return climbingStairs_recursive(n-1)+climbingStairs_recursive(n-2)
 ```
 
 ### climbingStairs - iterative
