@@ -20,8 +20,8 @@
 - Hash Tables(not yet)
 - Trees
   - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md)
-
-- dynamic programming(not yet)
+- dynamic programming
+  - [climbingStairs](/Algorithm/climbingStairs.md)
 
 ### Lib usage in Python
 - [pandas (not yet)]()
