@@ -1,8 +1,5 @@
 # sumInRange(nums, queries)
 
-- not solved yet(score = 167/300)
-	- https://codefights.com/interview-practice/task/4MoqQLaw22nrzXbgs
-
 ## Problem
 
 - 간단한 코드로 쓰자면 다음과같다. 다만, 현재는 계산속도가 느려서 개선하고 있는 상황. 
@@ -176,8 +173,44 @@ def sumInRange(nums, queries):
         return r%(10**9+7)
 ```
 
+### fifth try
 
-### not yet completed. 
+- 그냥...간단하게, prefix sum, `y_n = sum(x[:n])` 을 가지는 새로운 리스트를 만들어서 풀었다....
+	- 생각보다 너무 쉽게 풀려서 약간 당황...
+
+```python
+def sumInRange(nums, queries):
+    r = 0
+    numSums= [nums[0]]
+    for i in range(1, len(nums)):
+        numSums.append( numSums[-1] + nums[i] )
+    for qu in queries:
+        x, y = qu[0], qu[1]
+        partial_sum = numSums[y]
+        if x!=0:
+            partial_sum -=numSums[x-1]
+        r+=partial_sum
+    return r%(10**9+7)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
