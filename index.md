@@ -26,6 +26,7 @@
   - [climbingStairs](/Algorithm/climbingStairs.md)
   - [fillingBlocks](/Algorithm/fillingBlocks.md)
   - [maximalSquare](/Algorithm/maximalSquare.md)
+  - [regularExpressionMatching](/Algorithm/regularExpressionMatching.md)
 
 ### Lib usage in Python
 - [Excel + Python](/LibUsage/excel_in_python.md)
