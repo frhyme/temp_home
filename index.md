@@ -23,6 +23,7 @@
 - dynamic programming
   - [climbingStairs](/Algorithm/climbingStairs.md)
   - [fillingBlocks](/Algorithm/fillingBlocks.md)
+  - [maximalSquare](/Algorithm/maximalSquare.md)
 
 ### Lib usage in Python
 - [pandas (not yet)]()
