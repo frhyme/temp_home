@@ -27,6 +27,7 @@
   - [fillingBlocks](/Algorithm/fillingBlocks.md)
   - [maximalSquare](/Algorithm/maximalSquare.md)
   - [regularExpressionMatching](/Algorithm/regularExpressionMatching.md)
+  - [paintHouse](/Algorithm/paintHouse.md)
 
 ### Lib usage in Python
 - [Excel + Python](/LibUsage/excel_in_python.md)
