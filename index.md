@@ -22,6 +22,7 @@
   - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md)
 - dynamic programming
   - [climbingStairs](/Algorithm/climbingStairs.md)
+  - [fillingBlocks](/Algorithm/fillingBlocks.md)
 
 ### Lib usage in Python
 - [pandas (not yet)]()
