@@ -3,6 +3,8 @@
 - 모든 사람들에게 도움이 되기는 어려울 것 같고, 아마 공부를 시작한지 얼마 안되는 분들에게 유용하지 않을까 작게 생각해봅니다. 
 - 아무쪼록 감사하구요. 혹시 연락이 필요하시면, freerhein@gmail.com 으로 메일 주세요. 
 
+### Data Science
+
 
 ### Algorithm 
 - [arrayMaxConsecutiveSum](/Algorithm/arrayMaxConsecutiveSum.md)
@@ -26,9 +28,10 @@
   - [maximalSquare](/Algorithm/maximalSquare.md)
 
 ### Lib usage in Python
+- [Excel + Python](/LibUsage/excel_in_python.md)
 - [pandas (not yet)]()
 - [itertools (not yet)]()
-- [Excel + Python](/LibUsage/excel_in_python.md)
+- Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
 - [MemberTesting](/TTiP/Python_membertesting.md)
