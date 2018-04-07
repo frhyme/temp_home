@@ -29,6 +29,7 @@
   - [regularExpressionMatching](/Algorithm/regularExpressionMatching.md)
   - [paintHouse](/Algorithm/paintHouse.md)
   - [longestIncreasingSubsequence](/Algorithm/longestIncreasingSubsequence.md)
+  - [kpalindrome](/Algorithm/kpalindrome.md)
 
 ### Lib usage in Python
 - [Excel + Python](/LibUsage/excel_in_python.md)
