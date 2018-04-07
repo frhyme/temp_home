@@ -28,6 +28,7 @@
   - [maximalSquare](/Algorithm/maximalSquare.md)
   - [regularExpressionMatching](/Algorithm/regularExpressionMatching.md)
   - [paintHouse](/Algorithm/paintHouse.md)
+  - [longestIncreasingSubsequence](/Algorithm/longestIncreasingSubsequence.md)
 
 ### Lib usage in Python
 - [Excel + Python](/LibUsage/excel_in_python.md)
