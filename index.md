@@ -21,7 +21,8 @@
   - [reverseNodeInKgroups](/Algorithm/reverseNodeInKGroups.md)
 - Hash Tables(not yet)
 - Trees
-  - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md)
+  - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md
+  - [isTreeSymmetric](/Algorithm/isTreeSymmetric.md)
 - dynamic programming
   - [climbingStairs](/Algorithm/climbingStairs.md)
   - [fillingBlocks](/Algorithm/fillingBlocks.md)
