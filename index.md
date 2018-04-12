@@ -37,6 +37,7 @@
 
 ### Lib usage in Python
 
+- [numpy](/LibUsage/numpy_basic.md): **매우 기초적인 numpy 활용법**
 - [Excel + Python](/LibUsage/excel_in_python.md): **python에서 엑셀을 읽고 쓰는 방법을 정리했습니다.**
 - [konlpy](/LibUsage/konlpy(ing).md): **한국어 자연어 처리 패키지(konlpy)를 설치하는데 실패했습니다.**
 - [pandas (not yet)]()
