@@ -38,6 +38,7 @@
 - [konlpy](/LibUsage/konlpy(ing).md)
 - [pandas (not yet)]()
 - [itertools](/LibUsage/itertools.md)
+- [datetime](LibUsage/datetime.md)
 - Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
