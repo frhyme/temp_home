@@ -40,6 +40,7 @@
 - [itertools](/LibUsage/itertools.md): **python에서 iterator를 어떻게 사용하는지를 정리했습니다.**
 - [datetime](LibUsage/datetime.md): **python 날짜 시간 관리 lib, datetime 활용법을 정리했습니다.**
 - [collections](LibUsage/collections.md): **python에 있는 다양한 자료구조 들을 정리했습니다.**
+- [functools](LibUsage/functools.md): **python에서 functional programming을 어떻게 지원하는가?**
 - Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
