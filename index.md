@@ -49,6 +49,7 @@
 
 ### Trivial Thing in Python
 
+- [Object Oriented Programming](): **OOP in python**
 - [MemberTesting](/TTiP/Python_membertesting.md): **member testing의 `set`와 `list`에서의 속도 차이**
 - [Decorator](TTip/Python_decorator.md): **function을 확장해봅시다**
 
