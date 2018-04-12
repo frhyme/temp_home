@@ -37,7 +37,7 @@
 - [Excel + Python](/LibUsage/excel_in_python.md)
 - [konlpy](/LibUsage/konlpy(ing).md)
 - [pandas (not yet)]()
-- [itertools (not yet)]()
+- [itertools](/LibUsage/itertools.md)
 - Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
