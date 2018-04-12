@@ -39,6 +39,7 @@
 - [pandas (not yet)]()
 - [itertools](/LibUsage/itertools.md)
 - [datetime](LibUsage/datetime.md)
+- [collections](LibUsage/collections.md)
 - Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
