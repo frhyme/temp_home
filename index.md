@@ -34,16 +34,16 @@
   - [kpalindrome](/Algorithm/kpalindrome.md)
 
 ### Lib usage in Python
-- [Excel + Python](/LibUsage/excel_in_python.md)
-- [konlpy](/LibUsage/konlpy(ing).md)
+- [Excel + Python](/LibUsage/excel_in_python.md): **python에서 엑셀을 읽고 쓰는 방법을 정리했습니다.**
+- [konlpy](/LibUsage/konlpy(ing).md): **한국어 자연어 처리 패키지(konlpy)를 설치하는데 실패했습니다.**
 - [pandas (not yet)]()
-- [itertools](/LibUsage/itertools.md)
-- [datetime](LibUsage/datetime.md)
-- [collections](LibUsage/collections.md)
+- [itertools](/LibUsage/itertools.md): **python에서 iterator를 어떻게 사용하는지를 정리했습니다.**
+- [datetime](LibUsage/datetime.md): **python 날짜 시간 관리 lib, datetime 활용법을 정리했습니다.**
+- [collections](LibUsage/collections.md): **python에 있는 다양한 자료구조 들을 정리했습니다.**
 - Functional Programming in python(not yet)
 
 ### Trivial Thing in Python
-- [MemberTesting](/TTiP/Python_membertesting.md)
+- [MemberTesting](/TTiP/Python_membertesting.md): **member testing의 `set`와 `list`에서의 속도 차이**
 
 ### etc.
 - Something1
