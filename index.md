@@ -35,6 +35,7 @@
 
 ### Lib usage in Python
 - [Excel + Python](/LibUsage/excel_in_python.md)
+- [konlpy](/LibUsage/konlpy(ing).md)
 - [pandas (not yet)]()
 - [itertools (not yet)]()
 - Functional Programming in python(not yet)
