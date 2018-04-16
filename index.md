@@ -50,6 +50,7 @@
 
 ### Trivial Thing in Python
 
+- [Read json/xml](): python에서 jSON, xml 읽는 방법
 - [Object Oriented Programming](): **OOP in python**
 - [MemberTesting](/TTiP/Python_membertesting.md): **member testing의 `set`와 `list`에서의 속도 차이**
 - [Decorator](TTip/Python_decorator.md): **function을 확장해봅시다**
