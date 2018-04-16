@@ -26,6 +26,8 @@
   - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md
   - [isTreeSymmetric](/Algorithm/isTreeSymmetric.md)
   - [longestPath](/Algorithm/longestPath.md)
+- Graph
+  - [singlePointOfFailure](/Algorithm/singlePointOfFailure.md)
 - dynamic programming
   - [climbingStairs](/Algorithm/climbingStairs.md)
   - [fillingBlocks](/Algorithm/fillingBlocks.md)
