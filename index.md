@@ -9,13 +9,6 @@
 
 ### Algorithm Problem and Solution
 
-- [arrayMaxConsecutiveSum](/Algorithm/arrayMaxConsecutiveSum.md)
-- [buildPalindrome](/Algorithm/buildPalindrome)
-- [digitsProduct](/Algorithm/digitsProduct)
-- [spiralNumbers](/Algorithm/spiralNumbers.md)
-- [checkSudoku](/Algorithm/checkSudoku.md)
-- [rotateMatrix](/Algorithm/rotateMatrix.md)
-- [sumInRange](/Algorithm/sumInRange.md)
 - Linked list
   - [Linked list(Basic)](/Algorithm/linkedListBasic.md)
   - [isListPalindrome](/Algorithm/linkedList_isListPalindrome.md)
@@ -36,6 +29,15 @@
   - [paintHouse](/Algorithm/paintHouse.md)
   - [longestIncreasingSubsequence](/Algorithm/longestIncreasingSubsequence.md)
   - [kpalindrome](/Algorithm/kpalindrome.md)
+- Other
+  - [arrayMaxConsecutiveSum](/Algorithm/arrayMaxConsecutiveSum.md)
+  - [buildPalindrome](/Algorithm/buildPalindrome)
+  - [digitsProduct](/Algorithm/digitsProduct)
+  - [spiralNumbers](/Algorithm/spiralNumbers.md)
+  - [checkSudoku](/Algorithm/checkSudoku.md)
+  - [rotateMatrix](/Algorithm/rotateMatrix.md)
+  - [sumInRange](/Algorithm/sumInRange.md)
+
 
 ### Lib usage in Python
 
@@ -52,8 +54,8 @@
 
 ### Trivial Thing in Python
 
-- [Read json/xml](): python에서 jSON, xml 읽는 방법
 - [Object Oriented Programming](): **OOP in python**
+- [read_json_in_python](/TTiP/read_json_in_python.md): **python에서 json을 읽읍시다**
 - [MemberTesting](/TTiP/Python_membertesting.md): **member testing의 `set`와 `list`에서의 속도 차이**
 - [Decorator](TTip/Python_decorator.md): **function을 확장해봅시다**
 
