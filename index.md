@@ -56,6 +56,7 @@
 
 - [Object Oriented Programming](/TTiP/oop_in_python.md): **OOP in python**
 - [read_json_in_python](/TTiP/read_json_in_python.md): **python에서 json을 읽읍시다**
+- [read_xml_in_python(/TTiP/read_xml.md): **xml/html을 읽읍시다**
 - [MemberTesting](/TTiP/Python_membertesting.md): **member testing의 `set`와 `list`에서의 속도 차이**
 - [Decorator](TTip/Python_decorator.md): **function을 확장해봅시다**
 
