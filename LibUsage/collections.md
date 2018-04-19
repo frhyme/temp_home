@@ -258,7 +258,6 @@ print("dict_by_assignment:", dict_by_assignment)
     dict_by_copy: {'name': 'original', 'phone': 123, datetime.date(1986, 11, 18): 'birth', 'birth': datetime.date(1986, 11, 18)}
     dict_by_assignment: {}
 
----
 ## collections - High performance container data types
 
 - Counter
@@ -267,11 +266,10 @@ print("dict_by_assignment:", dict_by_assignment)
 - named tuple
 - defaultdict
 
----
 
 ## collections.Counter
 
-> dict subclass for counting hashable objects
+- dict subclass for counting hashable objects
 -  리스트에 있는 값들을 셀 때 좋음
 
 
@@ -291,7 +289,7 @@ print("target_cnt.most_common():", target_cnt.most_common())
 
 ## collections.deque
 
-> list-like container with fast appends and pops on either end
+- list-like container with fast appends and pops on either end
 - 양쪽으로 값을 넣고 뺄 수 있는 queue
 - list와 유사하게 사용할 수 있지만, memory movement cost에서 차이가 발생
     - deque: O(1), list: O(n)
@@ -334,7 +332,7 @@ dq.clear()
 
 ## collections.OrderedDict
 
-> dict subclass that remembers the order entries were added
+- dict subclass that remembers the order entries were added
 - dictionary subclass 이며, 당연히 dictionary의 method를 모두 활용가능
 - dictionary에 값이 넣어진 순서가 그대로 유지됨.
     - 하지만 integer position indexing이 불가한 건 똑같음
@@ -364,7 +362,7 @@ print("2nd item in ordict:", list(ordict.items())[2] )
 
 ## collections.namedtuple
 
-> ==factory function for creating tuple subclasses with named fields==
+- ==factory function for creating tuple subclasses with named fields==
 - simple profile, document(like json)과 같은 형태의 자료가 필요할 때, 만듬
 - dictionary와 유사하고 변환도 쉽게 가능하지만, immutability 를 보장함.
     - OrderedDict로 변환됨
@@ -408,7 +406,7 @@ print(dict1)
 
 ## collections.defaultdict
 
-> dict subclass that calls a factory function to supply missing values
+- dict subclass that calls a factory function to supply missing values
 - basic dictionary는 key 값이 없으면 에러를 발생시킴.
 - 그러나 defaulttdict는 key가 없을 경우 해당 key에 대한 값을 넘겨받은 함수(factory 함수)를 사용해서 만들어줌.
 - default 를 지정해줄 수 있기 때문에 defaultdict
@@ -513,11 +511,10 @@ print_inf_dict( "",inf )
     level:,a,b,c,d4,e,f,g,h,i -  dict_keys([])
     level:,a,b,c,d3 -  dict_keys([])
 
----
 
 ## collections.ChainMap
 
-> dict-like class for creating a single view of multiple mappings
+- dict-like class for creating a single view of multiple mappings
 - managing dictionary sequence
 - dictionary에 대한 버전관리 라고 생각하면 편함.
 - 이걸 어디에 어떻게 활용할 수 있지??? :anguished:
