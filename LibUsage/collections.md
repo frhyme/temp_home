@@ -7,12 +7,9 @@
 - 예전에는 python의 다양하 자료구조를 잘 아는 것이 중요하다고 생각해서, 정리해두었는데, 한참 쓰다보니, 다 필요없고.
 - 결국 back to basic인데, 기본인, list, dictionary, 그리고 pd.DataFrame이 가장 중요한 것 같습니다. 
   - `Counter`, `OrderDict`는 그래도 좀 유용한 편이죠. 
-----
-
 - 효율적인 데이터 처리, 데이터 관리를 위해서는 적절한 자료구조를 활용하는 것이 매우 중요함.
 - 특히 "python은 느리다"는 편견 아닌 편견이 있는데, 많은 자료구조들은 이미 c와 유사항 정도의 상당히 빠른 연산 속도를 보장함.
 - 따라서 적합한 자료구조를 잘 골라서 활용하는 것이 매우 중요함.
----
 
 ## Data Structure
 
@@ -30,7 +27,7 @@
     - ChainMap
 - ***bidict***
     - bidict
----
+
 ## basic data structure - list
 
 `[value, value]`
@@ -78,7 +75,6 @@ print("lst_by_assignment:", lst_by_assignment)
     lst_by_copy: ['z', 'ins', 'a', 'index', 'index', 'b', 'A', 'ap']
     lst_by_assignment: []
 
----
 
 ### list - basic sorting method
 
@@ -102,7 +98,7 @@ print("by sort method(lower):", lst1)
     source list: ['index', 'a', 'A', 'b', 'index', 'z']
     by sort method(lower): ['z', 'index', 'index', 'b', 'a', 'A']
 
----
+
 
 ### list - advanced sorting method
 
@@ -137,7 +133,7 @@ print("num_chr_lst:", num_chr_lst)
     num_chr_lst: [[2, 'T'], [2, 'M'], [6, 'Q'], [3, 'V']]
     using sort method
     num_chr_lst: [[2, 'T'], [2, 'M'], [3, 'V'], [6, 'Q']]
----
+
 
 ## basic data structure - tuple
 
@@ -177,7 +173,7 @@ tup1[0]=2
 
 
     TypeError: 'tuple' object doesn't support item deletion
----
+
 
 ## basic data structure - set
 
@@ -202,7 +198,7 @@ print("difference:", set(lst1).difference([1,2,3,4]))
     intersection: {1, 2, 3}
     difference: {5, 6}
 
----
+
 ## basic data structure - dictionary
 
 `{key:value, key:value}`
@@ -292,7 +288,6 @@ print("target_cnt.most_common():", target_cnt.most_common())
     count of b: 2
     target_cnt.most_common(): [('a', 3), ('b', 2), ('c', 1), ('f', 1)]
 
----
 
 ## collections.deque
 
@@ -336,7 +331,6 @@ dq.clear()
 
     NameError: name 'dq' is not defined
 
----
 
 ## collections.OrderedDict
 
@@ -367,7 +361,6 @@ print("2nd item in ordict:", list(ordict.items())[2] )
     OrderedDict([('A', 1), ('B', 2), ('C', 3), ('D', 4), ('E', 5), ('F', 6), ('G', 7)])
     2nd item in ordict: ('C', 3)
 
----
 
 ## collections.namedtuple
 
@@ -412,7 +405,6 @@ print(dict1)
     <class 'collections.OrderedDict'>
     OrderedDict([('name', 'shlee'), ('phone', '01074858611'), ('birth', datetime.date(1986, 11, 18))])
 
----
 
 ## collections.defaultdict
 
@@ -476,7 +468,6 @@ print("by list:", dict1)
     defaultdict(<function <lambda> at 0x00000244F2E819D8>, {})
     by defaultdict: dict_items([('c', [3]), ('a', [1, 2]), ('b', [2, 3])])
     by list: {'c': [3], 'a': [1, 2], 'b': [2, 3]}
----
 
 ### make infinite dictionary??
 
@@ -577,7 +568,6 @@ print(x_dict)
 
     {'weather': 'hot', 'population': 1000, 'temp': 27}
 
----
 
 ## bidict.bidict
 
