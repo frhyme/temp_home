@@ -45,11 +45,11 @@ plt.show()
 ```
 
 
-![png](./img/matplotlib_change_font_output_1_0.png)
+![png](frhyme.github.io/img/matplotlib_change_font_output_1_0.png)
 
 
 
-![png](./img/matplotlib_change_font_output_1_1.png)
+![png](frhyme.github.io/img/matplotlib_change_font_output_1_1.png)
 
 
 ## 어떻게 font를 변경할 수 있나요? 
