@@ -56,6 +56,7 @@
 - [konlpy](/LibUsage/konlpy(ing).md): **한국어 자연어 처리 패키지(konlpy)를 설치하는데 실패했습니다.**
 - [nltk_wordnet](/LibUsage/nltk_wordnet.md): **영단어 온톨로지(nltk - wordnet) 기본적인 활용법입니다**
 - [matplotlib - font change](LibUsage/matplotlib_change_font.md): **matplotlib의 font를 예쁘게 바꿔봅시당**
+- [Read Googld spreadsheet](): **google spreadsheet를 읽어봅시다.**
 - [pandas (not yet)]()
 - [itertools](/LibUsage/itertools.md): **python에서 iterator를 어떻게 사용하는지를 정리했습니다.**
 - [datetime](LibUsage/datetime.md): **python 날짜 시간 관리 lib, datetime 활용법을 정리했습니다.**
