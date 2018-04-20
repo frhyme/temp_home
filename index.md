@@ -5,7 +5,17 @@
 
 ### Data Science
 
+#### Data Science library in Python
+
+- tensorflow
+- keras
+- sklearn
+
+#### Kaggle 
+
 ### Procee Mining using Python
+
+- Alpha Algorithm
 
 ### Algorithm Problem and Solution
 
@@ -16,7 +26,7 @@
   - [reverseNodeInKgroups](/Algorithm/reverseNodeInKGroups.md)
 - Hash Tables(not yet)
 - Trees
-  - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md
+  - [hasPathWithGivenSum](/Algorithm/hasPathWithGivenSum.md)
   - [isTreeSymmetric](/Algorithm/isTreeSymmetric.md)
   - [longestPath](/Algorithm/longestPath.md)
 - Graph
