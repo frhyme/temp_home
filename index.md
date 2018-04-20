@@ -74,7 +74,8 @@
 
 ### etc.
 
-- Something1
+- [윈도우 컴퓨터에서 Caps lock으로 한영변환하기]
+- [깃헙 블로그 조금 더 예쁘게 만들기]
 - Soomething2
 
 
