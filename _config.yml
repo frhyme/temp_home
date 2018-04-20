@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
-title: [frhyme's code]
-description: [study, code, fail and epic-fail]
+title: frhyme's code
+description: study, code, fail and epic-fail
+show_downloads: "false"
+google_analytics: UA-117922967-1
